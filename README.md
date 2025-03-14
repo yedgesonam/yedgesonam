@@ -10,17 +10,17 @@ Feel free to explore some of the projects I’ve worked on and get to know more 
 
 ## **📖 Education**
 
-•### **Santa Clara University**
+###• **Santa Clara University**
  ### **Master of Science in Computer Science and Engineering**
 
      2022 - 2024
      Relevant course work: Design and Analysis of Algorithms, Software Engineering, Advanced Operating Systems, Computer Architecture, Machine Learning, Distributed Systems, Database Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Creativity, Object-oriented analysis, design and programming, Project Management
 
-•### **Mumbai University**
+###• **Mumbai University**
  ### **Bachelor of Engineering in Information Technology**
   Relevant course work: Data Structures and Algorithm, Operating Systems, Computer Networks,Cloud Computing, Web Technology .
 
-💻## **Skills**
+##💻 **Skills**
 
 • Programming Languages: Java, JavaScript, Dart, Kotlin, Python, Golang, HTML, CSS
 • Frameworks: REST API, JSON, Spring Boot, ReactJS, JDBC, Flutter, Flask, Node.js, Bootstrap
@@ -28,10 +28,10 @@ Feel free to explore some of the projects I’ve worked on and get to know more 
 • Databases: MySQL, Oracle database, PostgreSQL, NoSQL (MongoDB, Firebase, Redis)
 • Developer Tools: CI/CD, Eclipse, IntelliJ, NetBeans, GitHub, Postman, Figma, Docker, Apache Kafka, JIRA, Agile, Jupyter-Lab, Google Colab,
 
-🧑‍💻## **Work Experience**
+##🧑‍💻 **Work Experience**
 
-•### **Software Development Engineer , Frugal Innovation Hub**
-  Sept 2023 - Present
+###• **Software Development Engineer , Frugal Innovation Hub**
+       Sept 2023 - Present
 
 • Deployed the application on both Android and iOS, making it available on the Play Store and App Store. Here’s the link to Play Store and App Store
 • Engineered and spearheaded a team of three to successfully launch a hybrid web and Android/iOS application for an Ignatian Centre client, leveraging Flutter-Dart technologies and Firebase as the backend database, aimed at aiding thousands of Latin American high school students in their college application journey
