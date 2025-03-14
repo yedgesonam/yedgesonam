@@ -1,5 +1,5 @@
 # **Sonam Yedge**
-## 💫**About Me**
+## 💫 **About Me**
 
 Welcome to my github!
 
@@ -9,7 +9,7 @@ As an adaptable and quick learner, I am excited to take on new challenges and co
 
 Feel free to explore some of the projects I’ve worked on and get to know more about me.
 
-##  **📖Education**
+##  **📖 Education**
 
 #### **Santa Clara University**
 #### **Master of Science in Computer Science and Engineering**
@@ -23,7 +23,7 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 #### **Bachelor of Engineering in Information Technology**
   Relevant course work: Data Structures and Algorithm, Operating Systems, Computer Networks,Cloud Computing, Web Technology .
 
-## 💻**Skills**
+## 💻 **Skills**
 
 • Programming Languages: Java, JavaScript, Dart, Kotlin, Python, Golang, HTML, CSS
 
@@ -35,7 +35,7 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 
 • Developer Tools: CI/CD, Eclipse, IntelliJ, NetBeans, GitHub, Postman, Figma, Docker, Apache Kafka, JIRA, Agile, Jupyter-Lab, Google Colab
 
-## 🧑‍💻**Work Experience**
+## 🧑‍💻 **Work Experience**
 
 ### **Software Development Engineer , Frugal Innovation Hub**
   Sept 2023 - Present
