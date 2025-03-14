@@ -39,14 +39,19 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 ### •**Software Development Engineer , Frugal Innovation Hub**
   Sept 2023 - Present
 
-• Deployed the application on both Android and iOS, making it available on the Play Store and App Store. Here’s the link to Play Store and App Store
+• Deployed the application on both Android and iOS, making it available on the Play Store and App Store.
+
 • Engineered and spearheaded a team of three to successfully launch a hybrid web and Android/iOS application for an Ignatian Centre client, leveraging Flutter-Dart technologies and 
-  Firebase as the backend database, aimed at aiding thousands of Latin American high school students in their college application journey
+  Firebase as the backend database, aimed at aiding thousands of Latin American high school students in their college application journey.
+  
 • Boosted user experience by Integrating grade-specific tasks to track progress for college applications, including resources for mental health awareness, resume building, standardized 
   tests, financial aid options like scholarships, and extracurriculars positively resulting in a 25% increase in user engagement.
+  
 • Elevated coding standards, cutting code review time by 30% and delivering consistently high-quality solutions. Optimized CI/CD pipelines, reducing deployment time by 20% and 
-  enhancing UI/UX, which led to an increase in customer satisfaction
+  enhancing UI/UX, which led to an increase in customer satisfaction.
+  
 • Pioneered 100% cost-efficient software solutions and steered end-to-end development of the application to track project success, launch strategy, and performance monitoring analytics.
+
 • Analyzed the entire development lifecycle of the application and adapted quickly to changing project requirements and deadlines, ensuring timely delivery of deliverables. Created 
   high-fidelity UI prototypes that streamlined the design process by 30%, accelerating project timelines.
 
