@@ -13,10 +13,10 @@ Feel free to explore some of the projects I’ve worked on and get to know more 
 ### **Santa Clara University**
 ### **Master of Science in Computer Science and Engineering**
 
-         2022 - 2024
-         Relevant course work: Design and Analysis of Algorithms, Software Engineering, Advanced Operating Systems, Computer Architecture, Machine Learning, Distributed Systems, 
-         Database 
-         Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Creativity, Object-oriented analysis, design and programming, Project Management
+2022 - 2024
+Relevant course work: Design and Analysis of Algorithms, Software Engineering, Advanced Operating Systems, Computer Architecture, Machine Learning, Distributed Systems, 
+Database 
+Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Creativity, Object-oriented analysis, design and programming, Project Management
 
 ### **Mumbai University**
 ### **Bachelor of Engineering in Information Technology**
