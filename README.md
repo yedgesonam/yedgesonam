@@ -1,5 +1,6 @@
 # **Sonam Yedge**
-💫 ## **About Me**
+## 💫  **About Me**
+
 Welcome to my github!
 
 I am Sonam Yedge, recent Computer Science graduate from Santa Clara University, With a strong passion for problem-solving and a solid foundation in software development, I have hands-on experience in various programming languages
