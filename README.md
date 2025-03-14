@@ -6,6 +6,7 @@ Welcome to my github!
 I am Sonam Yedge, recent Computer Science graduate from Santa Clara University, With a strong passion for problem-solving and a solid foundation in software development, I have hands-on experience in various programming languages
 Passionate about developing efficient and scalable applications.
 As an adaptable and quick learner, I am excited to take on new challenges and contribute to projects that require creative problem-solving and technical expertise.
+
 Feel free to explore some of the projects I’ve worked on and get to know more about me.
 
 ##  **📖Education**
