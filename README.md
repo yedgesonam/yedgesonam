@@ -33,7 +33,7 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 ## 🧑‍💻**Work Experience**
 
 ### •**Software Development Engineer , Frugal Innovation Hub**
-       Sept 2023 - Present
+    Sept 2023 - Present
 
 • Deployed the application on both Android and iOS, making it available on the Play Store and App Store. Here’s the link to Play Store and App Store
 • Engineered and spearheaded a team of three to successfully launch a hybrid web and Android/iOS application for an Ignatian Centre client, leveraging Flutter-Dart technologies and 
