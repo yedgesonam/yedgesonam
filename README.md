@@ -36,7 +36,7 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 
 ## 🧑‍💻**Work Experience**
 
-## •**Software Development Engineer , Frugal Innovation Hub**
+## **Software Development Engineer , Frugal Innovation Hub**
   Sept 2023 - Present
 
 • Deployed the application on both Android and iOS, making it available on the Play Store and App Store.
