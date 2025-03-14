@@ -50,8 +50,6 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
   
 • Elevated coding standards, cutting code review time by 30% and delivering consistently high-quality solutions. Optimized CI/CD pipelines, reducing deployment time by 20% and 
   enhancing UI/UX, which led to an increase in customer satisfaction.
-  
-• Pioneered 100% cost-efficient software solutions and steered end-to-end development of the application to track project success, launch strategy, and performance monitoring analytics.
 
 • Analyzed the entire development lifecycle of the application and adapted quickly to changing project requirements and deadlines, ensuring timely delivery of deliverables. Created 
   high-fidelity UI prototypes that streamlined the design process by 30%, accelerating project timelines.
