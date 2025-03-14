@@ -10,7 +10,8 @@ Feel free to explore some of the projects I’ve worked on and get to know more 
 
 ##  **📖Education**
 
-#### **Santa Clara University**#### **Master of Science in Computer Science and Engineering**
+#### **Santa Clara University**
+#### **Master of Science in Computer Science and Engineering**
 2022 - 2024
 
 Relevant course work: Design and Analysis of Algorithms, Software Engineering, Advanced Operating Systems, Computer Architecture, Machine Learning, Distributed Systems, 
@@ -31,7 +32,7 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 
 • Databases: MySQL, Oracle database, PostgreSQL, NoSQL (MongoDB, Firebase, Redis)
 
-• Developer Tools: CI/CD, Eclipse, IntelliJ, NetBeans, GitHub, Postman, Figma, Docker, Apache Kafka, JIRA, Agile, Jupyter-Lab,   Google Colab,
+• Developer Tools: CI/CD, Eclipse, IntelliJ, NetBeans, GitHub, Postman, Figma, Docker, Apache Kafka, JIRA, Agile, Jupyter-Lab, Google Colab
 
 ## 🧑‍💻**Work Experience**
 
