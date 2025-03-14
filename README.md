@@ -25,9 +25,13 @@ Systems, Cloud Computing, Web/Mobile Development, UI/UX Design, Computational Cr
 ## 💻**Skills**
 
 • Programming Languages: Java, JavaScript, Dart, Kotlin, Python, Golang, HTML, CSS
+
 • Frameworks: REST API, JSON, Spring Boot, ReactJS, JDBC, Flutter, Flask, Node.js, Bootstrap
+
 • Cloud Technologies: Amazon AWS: EC2, RDS, S3
+
 • Databases: MySQL, Oracle database, PostgreSQL, NoSQL (MongoDB, Firebase, Redis)
+
 • Developer Tools: CI/CD, Eclipse, IntelliJ, NetBeans, GitHub, Postman, Figma, Docker, Apache Kafka, JIRA, Agile, Jupyter-Lab, Google Colab,
 
 ## 🧑‍💻**Work Experience**
