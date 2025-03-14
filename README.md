@@ -10,8 +10,7 @@ Feel free to explore some of the projects I’ve worked on and get to know more 
 
 ##  **📖Education**
 
-#### **Santa Clara University**
-#### **Master of Science in Computer Science and Engineering**
+#### **Santa Clara University**#### **Master of Science in Computer Science and Engineering**
 2022 - 2024
 
 Relevant course work: Design and Analysis of Algorithms, Software Engineering, Advanced Operating Systems, Computer Architecture, Machine Learning, Distributed Systems, 
